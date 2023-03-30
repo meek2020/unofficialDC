@@ -116,6 +116,11 @@ ul {
     color: white;
 }
 
+p {
+    color: white;
+    font-size: 30px;
+}
+
 
 #octogonTemp {
     z-index: 1;
